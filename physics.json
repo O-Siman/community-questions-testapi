@@ -1,0 +1,23 @@
+{
+    "classinfo": {
+        "name": "Physics",
+        "students": 25
+    },
+    "topPosts": [
+        {
+            "title": "How do I calculate net force?",
+            "body": "I forgot what the formula was for force, could someone remind me?",
+            "alsoHaveThisQuestion": 5
+        },
+        {
+            "title": "I don't understand what \"x component\" is.",
+            "body": "I know the fomrula, cos(θ) • v, but I don't understand what it represents.",
+            "alsoHaveThisQuestion": 0
+        },
+        {
+            "title": "How do I solve a quadtratic equation on a graphing calculator?",
+            "body": "What buttons do I press? It's a TI NSpire",
+            "alsoHaveThisQuestion": 2
+        }
+    ]
+}
